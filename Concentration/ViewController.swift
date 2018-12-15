@@ -2,8 +2,6 @@
 //  ViewController.swift
 //  Concentration
 //
-//  Created by 五十嵐諒 on 2018/12/15.
-//
 
 import UIKit
 
